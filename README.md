@@ -9,8 +9,8 @@
 Insale is a online-store, Magento 2 E Commerce website idea.
 
   - PHP
-  - Magento
-  - Magic
+  - Magento 2
+
 
 
 ### Installation and PHP/MySQL versions

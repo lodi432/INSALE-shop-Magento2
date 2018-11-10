@@ -6,7 +6,7 @@
 
 
 
-Insale is a new-brand, online-store, Magento 2 powered E Commerce website.
+Insale is a online-store, Magento 2 E Commerce website idea.
 
   - PHP
   - Magento
